@@ -1,1 +1,1 @@
-![goku](https://github.com/chitvs/chitvs/blob/main/db.gif?raw=true)
+![jjk](https://github.com/chitvs/chitvs/blob/main/jjk.gif?raw=true)
