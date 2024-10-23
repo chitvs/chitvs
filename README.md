@@ -1,1 +1,1 @@
-![jjk](https://github.com/chitvs/chitvs/blob/main/megu.gif?raw=true)
+<img src="https://github.com/chitvs/chitvs/blob/main/db.gif?raw=true" alt="Goku" style="width:300px; height:auto;">
