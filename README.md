@@ -9,7 +9,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" style="padding-top: 20px; font-family: Arial, sans-serif; font-size: 16px;">
+      <td colspan="2" align="center" style="font-family: 'Latin Modern Roman', serif; font-size: 16px;">
         何事も深く掘り下げれば数学が見えてくる
       </td>
     </tr>
