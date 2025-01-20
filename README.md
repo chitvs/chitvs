@@ -14,14 +14,4 @@
       </td>
     </tr>
   </table>
-  <br>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,latex,html,css,vscode,neovim,git,linux,ubuntu,bash,obsidian">
-</p>
-  <picture align=center>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chitvs/chitvs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chitvs/chitvs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chitvs/chitvs/output/github-contribution-grid-snake.svg">
-</picture>
 </div>
